@@ -1,0 +1,8 @@
+b692bc76568b7bd53a1b3762ee1abd8c  DEBIAN/control
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+5c1388f00011a287cdeba60208c674e1  etc/sysctl.d/10-kernel-hardening.conf
+8568316f2baa8db06554dab91f93a161  etc/sysctl.d/10-link-restrictions.conf
+4ac7258f5336e7eeaf448c05ab668d3c  etc/sysctl.d/10-network-security.conf
+47f40494b2fc698e15549e0a4a79e81c  etc/sysctl.d/10-ptrace.conf
+a4b015d9a5dc4ea142b9cee49b4830c9  etc/sysctl.d/30-baloo-inotify-limit.conf
+b02edf9ac985927a702055716b978143  etc/sysctl.d/99-zbig.conf

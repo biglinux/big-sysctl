@@ -1,0 +1,10 @@
+Package: big-sysctl
+Version: 1.0.0-1big1
+Depends:
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:32
+Description: Add sysctl files to biglinux
+
