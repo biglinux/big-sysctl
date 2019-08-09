@@ -5,6 +5,6 @@ Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
 Section: admin
 Priority: optional
-Installed-Size:32
+Installed-Size:248
 Description: Add sysctl files to biglinux
 
